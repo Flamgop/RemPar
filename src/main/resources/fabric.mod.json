@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "rempar",
+  "version": "${version}",
+  "name": "rempar",
+  "description": "",
+  "authors": [
+    "Flamgop"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/rempar/icon.png",
+  "environment": "client",
+  "entrypoints": {
+  },
+  "mixins": [
+    "rempar.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.2",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}
