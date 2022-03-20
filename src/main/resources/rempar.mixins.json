@@ -6,7 +6,8 @@
   "mixins": [
   ],
   "client": [
-    "BillboardParticleMixin"
+    "BillboardParticleMixin",
+    "WaterSplashParticleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
